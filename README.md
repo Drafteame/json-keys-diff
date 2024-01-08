@@ -6,7 +6,7 @@ keys are missing and report by each file what should be the differences.
 ## Installation
 
 ```bash
-npm i --global @draftea/json-keys-diff
+npm i --global json-keys-diff
 ```
 
 ## Usage

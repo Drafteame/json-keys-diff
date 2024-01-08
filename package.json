@@ -1,5 +1,5 @@
 {
-  "name": "@draftea/json-keys-diff",
+  "name": "json-keys-diff",
   "type": "module",
   "version": "0.0.1",
   "description": "Simple hook that compare the keys of different json files and return what keys are missing between each other",
