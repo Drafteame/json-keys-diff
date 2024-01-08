@@ -1,0 +1,34 @@
+{
+  "name": "@draftea/json-keys-diff",
+  "type": "module",
+  "version": "0.0.0",
+  "description": "Simple hook that compare the keys of different json files and return what keys are missing between each other",
+  "main": "src/action/index.js",
+  "scripts": {
+    "lint": "npx eslint --fix .",
+    "format": "npx prettier --write .",
+    "test": "mocha ./tests/**/*.test.js"
+  },
+  "bin": {
+    "jkdiff": "bin/json-keys-diff.js"
+  },
+  "author": "Eduardo Aguilar <dante.aguilar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "eslint": "^8.52.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "mocha": "^10.2.0",
+    "prettier": "^3.0.3",
+    "sinon": "^17.0.1",
+    "sinon-chai": "^3.7.0"
+  }
+}
