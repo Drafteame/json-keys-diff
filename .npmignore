@@ -1,0 +1,8 @@
+.cz.toml
+.eslintrc.json
+.github/dependaboot.yml
+.github/workflows/cleanup_cache.yml
+.github/workflows/pull_request.yml
+.github/workflows/release.yml
+.prettierignore
+.prettierrc.json
