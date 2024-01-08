@@ -1,7 +1,7 @@
 {
   "name": "json-keys-diff",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple hook that compare the keys of different json files and return what keys are missing between each other",
   "main": "src/action/index.js",
   "scripts": {
