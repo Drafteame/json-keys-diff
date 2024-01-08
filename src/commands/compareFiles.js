@@ -28,5 +28,4 @@ export default function compareFiles(program) {
         process.exit(1);
       }
     });
-  return exec({ files, ignoreFile });
 }
