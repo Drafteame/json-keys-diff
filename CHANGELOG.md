@@ -1,3 +1,10 @@
+## v0.0.4 (2024-01-09)
+
+
+- Merge pull request #1 from Drafteame/chore/add-nix-release
+- chore: add nix release pipeline
+- chore: add nix release pipeline
+
 ## v0.0.3 (2024-01-08)
 
 
