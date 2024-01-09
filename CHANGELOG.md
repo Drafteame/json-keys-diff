@@ -1,3 +1,11 @@
+## v0.0.8 (2024-01-09)
+
+
+- Merge pull request #5 from Drafteame/fix/nix-node-version
+- fix: downgrade node version for nix
+- fix: downgrade node version for nix
+- nix: upgrading nix package to latest npm release
+
 ## v0.0.7 (2024-01-09)
 
 
