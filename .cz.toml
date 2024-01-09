@@ -10,7 +10,7 @@ version_files = [
 ]
 
 [tool.commitizen.customize]
-schema_pattern = "(break|build|ci|docs|feat|fix|perf|refactor|style|test|chore|revert|bump|deps)(\\(\\S+\\))?!?:(\\s.*)"
+schema_pattern = "(break|build|ci|docs|feat|fix|perf|refactor|style|test|chore|revert|bump|deps|nix)(\\(\\S+\\))?!?:(\\s.*)"
 bump_pattern = "^(break|build|feat|fix|refactor|style|test|revert|deps|chore)"
 
 [tool.commitizen.customize.bump_map]
