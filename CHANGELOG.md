@@ -1,3 +1,11 @@
+## v0.0.7 (2024-01-09)
+
+
+- Merge pull request #4 from Drafteame/fix/nix-node-version
+- fix: set specific node version to create nix files
+- fix: set specific node version to create nix files
+- nix: upgrading nix package to latest npm release
+
 ## v0.0.6 (2024-01-09)
 
 
