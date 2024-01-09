@@ -1,3 +1,11 @@
+## v0.0.6 (2024-01-09)
+
+
+- Merge pull request #3 from Drafteame/fix/release-job
+- fix: release job
+- fix: release job
+- nix: upgrading nix package to latest npm release
+
 ## v0.0.5 (2024-01-09)
 
 
