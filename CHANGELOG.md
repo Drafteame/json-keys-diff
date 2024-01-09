@@ -1,3 +1,12 @@
+## v0.0.5 (2024-01-09)
+
+
+- Merge pull request #2 from Drafteame/chore/add-version-command
+- chore: add version command
+- chore: add version.js file to commitizen
+- chore: add version command
+- nix: upgrading nix package to latest npm release
+
 ## v0.0.4 (2024-01-09)
 
 
