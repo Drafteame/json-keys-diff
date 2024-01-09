@@ -7,6 +7,7 @@ bump_message = "bump: release $current_version → $new_version [skip-ci]"
 update_changelog_on_bump = true
 version_files = [
     "package.json:version",
+    "src/version.js:VERSION"
 ]
 
 [tool.commitizen.customize]
