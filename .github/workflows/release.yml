@@ -116,7 +116,7 @@ jobs:
       - name: Generate Nix files
         run: |
           rm -rf default.nix node-env.nix node-packages.nix
-          node2nix -i node-packages.json
+          node2nix -i node-packages.json --pkg-name nodejs_18
           
           git add --all
           git commit -m "nix: upgrading nix package to latest npm release"
