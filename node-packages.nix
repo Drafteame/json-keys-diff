@@ -64,10 +64,10 @@ in
   json-keys-diff = nodeEnv.buildNodePackage {
     name = "json-keys-diff";
     packageName = "json-keys-diff";
-    version = "0.0.4";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://registry.npmjs.org/json-keys-diff/-/json-keys-diff-0.0.4.tgz";
-      sha512 = "hP7r13Ebnd+DnSymOv+OWcoXrst7GaBAK2GrNYtkTN+39tMvyMjz4VSPAYDYXQWIdoiMTfjKkRq0ljL76AKiBw==";
+      url = "https://registry.npmjs.org/json-keys-diff/-/json-keys-diff-0.0.5.tgz";
+      sha512 = "/3N0ONKuVBFDOKjjgKCSfLYgHQDWYiTR/UzhxlEF1TR1ZFr3cN/nwr8q++VehxLnQz7qDhAy/HQf2TxTg5DApg==";
     };
     dependencies = [
       sources."commander-11.1.0"
