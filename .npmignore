@@ -6,3 +6,4 @@
 .github/workflows/release.yml
 .prettierignore
 .prettierrc.json
+*.nix
