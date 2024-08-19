@@ -1,3 +1,14 @@
+## v0.0.9 (2024-08-19)
+
+
+- Merge pull request #7 from Drafteame/deps/resolve-vulnerabilities
+- deps: resolve vulnerabilities
+- deps: resolve vulnerabilities
+- Merge pull request #6 from Drafteame/ci/remove-nix
+- ci: remove nix pipeline
+- ci: remove nix pipeline
+- nix: upgrading nix package to latest npm release
+
 ## v0.0.8 (2024-01-09)
 
 
