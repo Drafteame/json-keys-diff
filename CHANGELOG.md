@@ -1,3 +1,10 @@
+## v0.0.10 (2026-01-21)
+
+
+- Merge pull request #8 from Drafteame/chore/trusted-publisher
+- chore: implements trusted publisher and bump node 20 -> 24
+- chore: implements trusted publisher and bump node 20 -> 24
+
 ## v0.0.9 (2024-08-19)
 
 
