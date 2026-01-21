@@ -4,6 +4,10 @@
   "version": "0.0.9",
   "description": "Simple hook that compare the keys of different json files and return what keys are missing between each other",
   "main": "src/action/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drafteame/json-keys-diff.git"
+  },
   "scripts": {
     "lint": "npx eslint --fix .",
     "format": "npx prettier --write .",
